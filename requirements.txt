@@ -1,1 +1,10 @@
-
+pytesseract
+shutil
+random
+pytesseract
+PIL
+opencv-python
+chemlib
+streamlit
+streamlit-lottie
+streamlit-option-menu
